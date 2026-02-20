@@ -69,6 +69,4 @@ day-31-flash-card-project-start/
 - Tkinter (GUI)
 - Pandas (CSV handling)
 
-## License
 
-This project is for educational purposes as part of the 100 Days of Code Python course.
